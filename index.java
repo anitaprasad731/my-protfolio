@@ -6,7 +6,7 @@ public class index{
 
         int n=5;
         System.out.println(4+n);
-        system.out.println(1+2);
+        System.out.println(1+2);
 
         int sadf=63;
     }
